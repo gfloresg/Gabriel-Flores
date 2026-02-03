@@ -25,7 +25,7 @@
 
 ## 🛠️ Habilidades Técnicas
 - **Lenguajes de programación:** Python, JavaScript, Java, C#  
-- **Frontend:** HTML, CSS, React, Angular, Bootstrap  
+- **Frontend:** HTML, CSS, React, Angular, Bootstrap, typescript 
 - **Backend:** Node.js, Express, Django, PHP  
 - **Bases de datos:** SQL Server, PostgreSQL, MongoDB  
 - **Otros:** Power BI, Jupyter Notebook, Git/GitHub  
