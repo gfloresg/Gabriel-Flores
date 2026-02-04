@@ -105,8 +105,9 @@
 
 ## 📂 Proyectos Destacados
 
-- 🎮 **[Nombre del proyecto/juego]**  
-  Breve descripción: qué hace, tecnologías usadas, y link al repositorio.
+- **[pagina publicitaria de ventas]**  
+  Realice una pagina web para una tienda de vidios la cual muestra productos de manera publicitaria aplicando tanto Herramientas basicas como html, css y js. como tambien el framewore de bootstrap
+  
 
 - 📊 **[Dashboard o análisis de datos]**  
   Breve descripción: herramientas usadas (Power BI, Gamma, etc.), y link al repositorio.
